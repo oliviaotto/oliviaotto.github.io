@@ -1,5 +1,5 @@
 <html>
-<script src="confetti.js"></script>
+<script src="confetti-falling-animation/confetti.js"></script>
 <head>
 <meta name="description" content="Our first page">
 <meta name="keywords" content="html tutorial template">
